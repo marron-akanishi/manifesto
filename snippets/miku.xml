@@ -156,6 +156,7 @@
   <project path="system/bpf" name="platform_system_bpf" remote="miku" />
   <project path="system/core" name="platform_system_core" remote="miku" />
   <project path="system/sepolicy" name="platform_system_sepolicy" remote="miku" />
+  <project path="system/vold" name="platform_system_vold" remote="miku" />
 
   <!-- Themes -->
   <project path="packages/overlays/Themes" name="platform_packages_overlays_Themes" remote="miku" revision="TDA" />
